@@ -1,0 +1,13 @@
+Projekan PHP buat belajar tentang Rumah Sakit
+ Login
+ Data base:
+	daftar obat
+	obat masuk
+	obat keluar
+	obat gudang
+	daftar pasien
+	loker pembayaran
+	pendaftaran klinik
+	pendaftaran ugd
+	pasien rawat inap
+	logout 
